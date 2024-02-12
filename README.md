@@ -1,4 +1,4 @@
-<h1>Hi, ik ben Maurice!  <br/><a href="https://www.linkedin.com/in/maurice-van-der-koelen-2173ba72/"> Medior Marketing & Media Professional</a>
+<h1>Hi, ik ben Maurice!  <br/><a href="https://www.linkedin.com/in/maurice-van-der-koelen-2173ba72/" target="_blank"> Medior Marketing & Media Professional</a>
 </br></br>Welkom op mijn profiel.</h1>
 
 <h2>👨‍💻 Marketing en Design Projecten:</h2>
