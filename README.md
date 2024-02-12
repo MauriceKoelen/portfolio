@@ -1,5 +1,3 @@
-<script src="https://raw.githubusercontent.com/dacodmagagula/auto_target_blank/master/auto_target_blank.js"></script>
-
 <h1>Hi, ik ben Maurice!  <br/><a href="https://www.linkedin.com/in/maurice-van-der-koelen-2173ba72/"> Medior Marketing & Media Professional</a>
 </br></br>Welkom op mijn profiel.</h1>
 
